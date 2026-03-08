@@ -1,0 +1,15 @@
+.navbar {
+  display: inline;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.nav-list {
+  list-style: none;   /* removes bullets */
+  display: flex;      /* puts items side by side */
+  gap: 20px;          /* adds spacing between items */
+  padding: 0;
+  margin: 0;
+}
